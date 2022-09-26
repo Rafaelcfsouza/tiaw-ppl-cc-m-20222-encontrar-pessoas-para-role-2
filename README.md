@@ -6,7 +6,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Arthur Castro Lopes
 * Vinicius Fiori 
-* Nome completo do aluno 3
+* Rafael Correa
 * Nome completo do aluno 4
 
 ## Professores responsáveis
